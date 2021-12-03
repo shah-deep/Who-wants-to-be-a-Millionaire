@@ -1,7 +1,7 @@
-# KBC-game-in-C-program
+# Who wants to be a Millionaire Game in C-program
 KBC game implemented with C programming.
 
-It is a simple KBC like game that runs in terminal.
+It is a simple "Who wants to be a Millionaire Game" like game that runs in terminal.
 
 It has user login and sign-up fascility, and uses text files to store data.
 
